@@ -7,7 +7,7 @@
 
 // Module metadata
 MODULE_AUTHOR("Anvaya B Narappa");
-MODULE_DESCRIPTION("Sem init");
+MODULE_DESCRIPTION("Semaphore lock test");
 MODULE_LICENSE("GPL");
 
 //semaphore struct 
